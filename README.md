@@ -8,7 +8,7 @@
   - [Extension](#extension)
     - [pyenv](#pyenv)
     - [virtualenv](#virtualenv)
-    - [pipenv](#pipenv
+    - [pipenv](#pipenv)
 
    
 # Environment Management
@@ -21,3 +21,24 @@
 * [anaconda](https://github.com/DamnWidget/anaconda) - Conda recipes for the bioconda channel. 
 * [dephell](https://github.com/dephell/dephell) - 📦 🔥 Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. 
 * [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
+
+
+# Extension
+
+## pyenv
+* [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+* [pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+
+
+## virtualenv
+* [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
+
+
+## pipenv
+* [fish-pipenv](https://github.com/sentriz/fish-pipenv) - 🐟🐍!a fish plugin that automatically activates the pipenv subshell
+* [pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
+
+
+## conda
+* [conda-build](https://github.com/conda/conda-build) - Commands and tools for building conda packages
+* [staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks
